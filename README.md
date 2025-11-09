@@ -1,5 +1,8 @@
 # BlackDex
 
+**[Chinese Version](README_CN.md)**
+
+
 ![](https://img.shields.io/badge/language-java-brightgreen.svg)
 
 BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
